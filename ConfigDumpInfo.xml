@@ -84,8 +84,8 @@
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Цена" id="8d229538-0ade-4d4a-9e5e-db24cbdee95b"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.СуммаПоДокументу" id="e5346aa8-c4b4-4b82-b4b0-f9ba3cd78b69"/>
 		</Metadata>
-		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="02ecdf66-caff-4485-b08f-340c1f35c2d0" configVersion="5d099b0400d0e345880537e4e0fd0a4c00000000"/>
-		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="02ecdf66-caff-4485-b08f-340c1f35c2d0.0" configVersion="3b76238995b6cc4ba95ac6521b32e31000000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="02ecdf66-caff-4485-b08f-340c1f35c2d0" configVersion="42f16c6e27ae9e4090d18ee4c2daee6500000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="02ecdf66-caff-4485-b08f-340c1f35c2d0.0" configVersion="f40bbd8bba249248b16adb2c83fafdf700000000"/>
 		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="3a481469-d431-4486-ab67-5942019bba64.0" configVersion="2460080bdf5d0647af408bd5b4c62bfa00000000"/>
 		<Metadata name="Document.ПриходнаяНакладная.Template.Макет" id="f842da9c-c0ac-4e9d-9e19-e503fdd21eab" configVersion="b9222dee8a3a6343ba7b964a69be307500000000"/>
 		<Metadata name="Document.ПриходнаяНакладная.Template.Макет.Template" id="f842da9c-c0ac-4e9d-9e19-e503fdd21eab.0" configVersion="0efa98c350e2f54faea3af3bc921445300000000"/>
